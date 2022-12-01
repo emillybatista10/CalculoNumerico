@@ -5,4 +5,4 @@ command = ["julia", "-i", "--banner=no"]
 prompt = [106, 117, 108, 105, 97, 62]
 
 [nix]
-channel = "stable-21_11"
+channel = "stable-22_05"
